@@ -852,7 +852,7 @@ msgstr ""
 #. [part]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:149
 msgid ""
-"We arrived at Portum Frigae without fur_ITther incident. However, when we got "
+"We arrived at Portum Frigae without further incident. However, when we got "
 "there, we had a different problem."
 msgstr ""
 
